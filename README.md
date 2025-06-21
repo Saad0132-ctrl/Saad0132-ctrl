@@ -1,16 +1,131 @@
-## Hi there 👋
+<body>
+  <div align="center">
+    <h1> Hi there, I'm Muhammad Saad <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> <a href="href="https://github.com/Saad0132-ctrl""></h1>
+  </div>
+<p align="center">
+<a href="https://github.com/Saad0132-ctrl"><img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;Front+End+Developer;Backend+Developer&center=true&width=500&height=50"></a>
+  </p>
+<h4>Talk with me : https://www.linkedin.com/in/muhammad-saad-55518b317/  </h4>
+
+### 🌟Goals & Vision
+- 👯 I’m looking to collaborate with other content creators and developers.
+- 🥅 **2025-26 Goals**: Contribute more to Open Source projects and turn innovative ideas into real-world solutions.
+- 💎 Let's connect if you're a tech enthusiast or working on something exciting!
+ 
+ 
+ 
+ <br>
+ 
+ <div align="center">
+  <a href="https://www.linkedin.com/in/muhammad-saad-55518b317/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:muhammadsaadd8855@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+<!--   <a href="https://www.instagram.com/syedwajeehshahhaider/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a> -->
+<!--   <a href="https://www.facebook.com/wajeehhaider.shah" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a> -->
+</div>
+ 
+  <br>
+
+ 
+<h1>Tech Stack  
+<img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
+</h1>
 
 
-**Saad0132-ctrl/Saad0132-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
+<table width="100">
+<tr>
+    <td align='center' width="200">
+        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="80">
+    </td>
+ <td align='center' width="200">
+        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
+    </td>
+	 <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="80">
+    </td>
+	 <td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width="80">
+    </td>
+<td align='center' width="200">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="80">
+    </td>
+</tr>
+ 
+<tr>
+    <td align='center'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="80">
+    </td>
+    <td align='center'>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="80">
+    </td>
+ <td align='center'>
+        <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="80">
+    </td>
+     <td align='center'>
+        <img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png">
+    </td>
+    <td align='center'>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="80">
+    </td>
+</tr>
+ 
+<tr>
+    <td align='center'>
+        <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" width="80">
+    </td>
+    <td align='center'>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="80">
+    </td>
+ <td align='center'>
+        <img src="https://cdn.worldvectorlogo.com/logos/angular-3.svg" width="80">
+    </td>
+  <td align='center'>
+        <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
+    </td>
+    <td align='center'>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="80">
+    </td>
+</tr>
+    
+</table>
+</p>
+
+
+###
+ 
+<br>
+
+ 
+ <h2>⚡️GitHub Analytics
+ </h2>
+
+<p align="center">
+<a href="https://github.com/Saad0132-ctrl">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrSohaibAhmed&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MrSohaibAhmed&layout=compact&langs_count=8&theme=dark"/>
+</a>
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=MrSohaibAhmed&show_icons=true&locale=en&layout=demo&theme=dark" />
+</p>
+</p>
+<br>
+	
+
+<!-- ## 🚀Github Metrics
+<p align="center">
+	<img width="625em" src="https://github.com/MrSohaibAhmed/MrSohaibAhmed/blob/main/github-metrics.svg" />
+</p>
+<br> -->
+
+
+
+<br>
