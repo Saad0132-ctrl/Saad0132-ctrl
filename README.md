@@ -71,21 +71,12 @@
  <td align='center'>
         <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="80">
     </td>
-     <td align='center'>
-        <img src="https://download.logo.wine/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.png">
-    </td>
     <td align='center'>
         <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="80">
     </td>
 </tr>
  
 <tr>
-    <td align='center'>
-        <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" width="80">
-    </td>
-    <td align='center'>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="80">
-    </td>
  <td align='center'>
         <img src="https://cdn.worldvectorlogo.com/logos/angular-3.svg" width="80">
     </td>
@@ -98,33 +89,8 @@
 </tr>
     
 </table>
-</p>
-
-
-###
- 
-<br>
-
- 
- <h2>⚡️GitHub Analytics
- </h2>
-
-<p align="center">
-<a href="https://github.com/Saad0132-ctrl">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrSohaibAhmed&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MrSohaibAhmed&layout=compact&langs_count=8&theme=dark"/>
-</a>
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=MrSohaibAhmed&show_icons=true&locale=en&layout=demo&theme=dark" />
-</p>
-</p>
-<br>
+</p
 	
-
-<!-- ## 🚀Github Metrics
-<p align="center">
-	<img width="625em" src="https://github.com/MrSohaibAhmed/MrSohaibAhmed/blob/main/github-metrics.svg" />
-</p>
-<br> -->
 
 
 
