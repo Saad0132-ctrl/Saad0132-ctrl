@@ -71,15 +71,6 @@
  <td align='center'>
         <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="80">
     </td>
-    <td align='center'>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="80">
-    </td>
-</tr>
- 
-<tr>
- <td align='center'>
-        <img src="https://cdn.worldvectorlogo.com/logos/angular-3.svg" width="80">
-    </td>
   <td align='center'>
         <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" >
     </td>
