@@ -77,9 +77,7 @@
     <td align='center'>
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="80">
     </td>
-</tr>
-
-    
+</tr>   
 </table>
 </p>
 <br>
