@@ -2,6 +2,7 @@
   <div align="center">
     <h1> Hi there, I'm Muhammad Saad <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> <a href="href="https://github.com/Saad0132-ctrl""></h1>
   </div>	    
+	    
 <p align="center">	
 <a  href="https://github.com/Saad0132-ctrl"><img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Stack+Developer;Front+End+Developer;Backend+Developer&center=true&width=500&height=50"></a>
   </p> 
