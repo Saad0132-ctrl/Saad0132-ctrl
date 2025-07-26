@@ -14,7 +14,6 @@ href="https://github.com/Saad0132-ctrl"><img src="https://readme-typing-svg.hero
 - 💎 Let's connect if you're a tech enthusiast or working on something exciting!
  
  
- 
  <br>
  
  <div align="center">
