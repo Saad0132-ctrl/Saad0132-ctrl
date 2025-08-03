@@ -47,7 +47,6 @@ href="https://github.com/Saad0132-ctrl"><img src="https://readme-typing-svg.hero
 
 
 
-
 <table width="100">
 <tr>
     <td align='center' width="200">
