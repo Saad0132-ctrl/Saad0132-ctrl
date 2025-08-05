@@ -20,7 +20,6 @@ href="https://github.com/Saad0132-ctrl"><img src="https://readme-typing-svg.hero
  <br>
 
 
-
  
  <div align="center">
   <a href="https://www.linkedin.com/in/muhammad-saad-55518b317/" target="_blank">
