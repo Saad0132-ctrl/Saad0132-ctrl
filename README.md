@@ -6,6 +6,7 @@
 
 
 
+
 <a 
 href="https://github.com/Saad0132-ctrl"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Front+End+Developer;Backend+Developer&center=true&width=500&height=50"></a>
   </p> 
@@ -38,7 +39,6 @@ href="https://github.com/Saad0132-ctrl"><img src="https://readme-typing-svg.hero
  
   <br>
 
- 
 <h1>Tech Stack  
 <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 </h1>
