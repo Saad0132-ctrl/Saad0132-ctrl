@@ -5,6 +5,7 @@
 <p align="center">
 
 
+
 <a 
 href="https://github.com/Saad0132-ctrl"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Front+End+Developer;Backend+Developer&center=true&width=500&height=50"></a>
   </p> 
